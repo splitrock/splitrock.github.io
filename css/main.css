@@ -51,7 +51,7 @@ img {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url("../images/split-rock-pablo-heimplatz-243286.jpg");
+    background-image: url("https://github.com/splitrock/splitrock.github.io/blob/master/images/split-rock-pablo-heimplatz-243286.jpg");
     /* -- Photo by Pablo Heimplatz on Unsplash */
     min-height: 96%;
 }
