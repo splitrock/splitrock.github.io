@@ -41,7 +41,7 @@ img {
 }
 
 #myNavbar {
-    background-image: url(../logos/srslogo2.png);
+    background-image: url(../splitrock.github.io/logos/srslogo2.png);
     background-position: 10px 17px;
     background-size: 45px 21px;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@ img {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url("//images/243286.jpg");
+    background-image: url("//splitrock.github.io/images/243286.jpg");
     /* -- Photo by Pablo Heimplatz on Unsplash */
     min-height: 96%;
 }
