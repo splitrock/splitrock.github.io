@@ -1,0 +1,85 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8B8E90;
+}
+			
+p {
+    font-size: 1.1em;
+    font-size-adjust: auto;
+}
+
+img {
+    padding:2em;
+}
+
+#aboutUs, #ourServices, #whatWeDo, #how_it_works {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #1D9DAF;
+}
+
+#srs {
+    margin-left: 55px;
+    text-decoration: none;
+    padding-top: 16px;
+}
+
+
+/* ----- nav bar */
+#nav1, #nav2, #nav3, #nav4, #nav5 {
+    margin-top: 8px;
+}
+
+#myNavbar {
+    background-image: url(../logos/srslogo2.png);
+    background-position: 10px 17px;
+    background-size: 45px 21px;
+    background-repeat: no-repeat;
+}
+
+/* ----- Full height image header */
+.bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../images/split-rock-pablo-heimplatz-243286.jpg");
+    /* -- Photo by Pablo Heimplatz on Unsplash */
+    min-height: 96%;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-30px);
+    }
+    60% {
+        transform: translateY(-15px);
+    }
+}
+
+.bounce {
+    -moz-animation: bounce 2s infinite;
+    -webkit-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+/* ----- footer */
+#footerPic {
+
+}
+
+#logo2 {
+    background-image: url(../logos/srswhite.png);
+    /* background-size: 200px; */
+}
